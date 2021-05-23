@@ -11,6 +11,7 @@ As of now, please set it like this first:
 - Use Shader to do EnvironmentMaker to save performance.
 - Use Shader to do depth compositing to save video memory.
 - Calculate the normal value of ScreenClick so that the new object can be rotated to the normal on the surface.
+- SSAO
 
 ## Function request for ZIGCAM
 - Depth greater than one (depth to hue or else).
@@ -24,6 +25,7 @@ As of now, please set it like this first:
 - 用Shader來做EnvironmentMaker，以節省效能
 - 用Shader來做深度合成，以節省視訊記憶體
 - 求得與計算ScreenClick的法線值，以讓新增物件在表面上可以向法線旋轉
+- SSAO
 
 ## 對ZIGCAM的功能請求
 
