@@ -1,6 +1,11 @@
 # TD-ZIGCAM
 ![](img/GIF.gif)
 
+Receive information from ZIGCAM (Author: [@ToyoshiMorioka](https://github.com/ToyoshiMorioka)) via NDI to achieve local rendering and compositing on [TouchDesigner](https://derivative.ca/).
+
+As of now, please set it like this first:
+![setting](img/setting.png)
+
 ## To-do
 
 - Use Shader to do EnvironmentMaker to save performance.
@@ -13,6 +18,8 @@
 - The near-far of the original projection matrix is ​​too small and may need to be changed manually.
 
 ---
+接收ZIGCAM(作者：@ToyoshiMorioka)經由NDI的資訊來實現在TD本地端渲染以及合成。
+
 ## 待辦事項
 - 用Shader來做EnvironmentMaker，以節省效能
 - 用Shader來做深度合成，以節省視訊記憶體
