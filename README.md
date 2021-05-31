@@ -13,6 +13,7 @@ As of now, please set it like this first:
 - [ ] Calculate the normal value of ScreenClick so that the new object can be rotated to the normal on the surface.
 - [ ] SSAO
 - [ ] Manually Add New Plane
+- [ ] Image stabilization 
 
 ## Function request for ZIGCAM
 - [ ] Depth greater than one (depth to hue or else).
@@ -30,6 +31,7 @@ As of now, please set it like this first:
 - [ ] 求得與計算ScreenClick的法線值，以讓新增物件在表面上可以向法線旋轉
 - [ ] SSAO
 - [ ] 加入"手動增新平面" 功能
+- [ ] 基於加速度的圖像穩定
 
 ## 對ZIGCAM的功能請求
 
