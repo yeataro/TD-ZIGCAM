@@ -17,7 +17,7 @@ As of now, please set it like this first:
 
 ## Function request for ZIGCAM
 - [ ] Depth greater than one (depth to hue or else).
-- [ ] Add image merging mode to metadata so that TD-ZIGCAM can automatically adapt.
+- [x] Add image merging mode to metadata so that TD-ZIGCAM can automatically adapt.
 - [x] The near-far of the original projection matrix is ​​too small and may need to be changed manually.
 	- [ ] `Issue` The value has not changed.
 - [ ] Add the click event and click position on the APP screen to the metadata.
@@ -41,7 +41,7 @@ As of now, please set it like this first:
 ## 對ZIGCAM的功能請求
 
 - [ ] 大於一的深度(depth to hue or else)
-- [ ] 在metadata中加入圖像合併模式，以讓TD-ZIGCAM可以自動適應
+- [x] 在metadata中加入圖像合併模式，以讓TD-ZIGCAM可以自動適應
 - [x] 原始投影矩陣的near-far太小，可能要手動更改
 	- [ ] `Issue` 數值並沒有更改。
 - [ ] 在metadata中加入APP螢幕上的點擊事件與點擊位置
