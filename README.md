@@ -16,6 +16,7 @@ As of now, please set it like this first:
 - [ ] Image stabilization 
 
 ## Function request for ZIGCAM
+- [ ] [Fixed focus option on the main operating interface.](https://developer.apple.com/documentation/arkit/arworldtrackingconfiguration/2942262-isautofocusenabled)
 - [ ] Depth greater than one (depth to hue or else).
 - [x] Add image merging mode to metadata so that TD-ZIGCAM can automatically adapt.
 - [x] The near-far of the original projection matrix is ​​too small and may need to be changed manually.
@@ -39,7 +40,7 @@ As of now, please set it like this first:
 - [ ] 基於加速度的圖像穩定
 
 ## 對ZIGCAM的功能請求
-
+- [ ] 主操作介面上的固定對焦選項。
 - [ ] 大於一的深度(depth to hue or else)
 - [x] 在metadata中加入圖像合併模式，以讓TD-ZIGCAM可以自動適應
 - [x] 原始投影矩陣的near-far太小，可能要手動更改
